@@ -1,0 +1,28 @@
+{
+  "name": "threatening-transistors website",
+  "version": "1",
+  "homepage": "https://github.com/threatening-transistors/threatening-transistors.github.io",
+  "authors": [
+    "Derek Barncard <derek@barncard.com>"
+  ],
+  "description": "website",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "website"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic-ui": "~1.1.2"
+  }
+}
